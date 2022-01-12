@@ -10,3 +10,14 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Final Project
+addada
+
+```{r}
+library(tidyr)
+```
+
+
+```{r}
+Hello
+```
+
